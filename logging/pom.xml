@@ -4,11 +4,11 @@
   <parent>
     <groupId>it.test.jgit</groupId>
     <artifactId>multimodule</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.2</version>
   </parent>
   <groupId>it.test.jgit</groupId>
   <artifactId>logging</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.1</version>
   <name>logging</name>
   <url>http://maven.apache.org</url>
   <properties>
