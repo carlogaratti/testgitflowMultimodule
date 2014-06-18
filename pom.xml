@@ -20,5 +20,6 @@
   </build>
   <modules>
     <module>module1</module>
+    <module>logging</module>
   </modules>
 </project>
