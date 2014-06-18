@@ -15,7 +15,7 @@
                 <!-- see goals wiki page for configuration options -->
             </configuration>
     
-	<modules></modules>   </plugin>
+	</plugin>
     </plugins>
   </build>
   <modules>
