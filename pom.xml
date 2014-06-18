@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>it.test.jgit</groupId>
   <artifactId>multimodule</artifactId>
-  <version>0.0.1</version>
+  <version>0.0.2</version>
   <packaging>pom</packaging>
   <build>
     <plugins>
@@ -20,5 +20,6 @@
   </build>
   <modules>
     <module>module1</module>
+    <module>logging</module>
   </modules>
 </project>

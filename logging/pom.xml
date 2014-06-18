@@ -7,9 +7,9 @@
     <version>0.0.2</version>
   </parent>
   <groupId>it.test.jgit</groupId>
-  <artifactId>module1</artifactId>
-  <version>0.0.2</version>
-  <name>module1</name>
+  <artifactId>logging</artifactId>
+  <version>0.0.1</version>
+  <name>logging</name>
   <url>http://maven.apache.org</url>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
