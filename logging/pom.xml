@@ -22,14 +22,5 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-   <build>
-    <plugins>
-        <plugin>
-            <groupId>external.atlassian.jgitflow</groupId>
-            <artifactId>jgitflow-maven-plugin</artifactId>
-            <version>1.0-m2</version>
-     	</plugin>
-    </plugins>
-  </build>
   
 </project>
